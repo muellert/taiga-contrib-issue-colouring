@@ -1,14 +1,17 @@
 
-= Taiga Issue Coloring =
+# Taiga Issue Coloring
 
 This product aims at providing colouring to issues, which can then be
 used to display in a dashboard.
 
-== Sponsorship ==
+## Sponsorship
 
 This work is being comissioned and sponsored by Unipart Digital.
 
-= Author =
+# Author
 
 Toni Müller <toni.muller@unipart.io> or <dev@tonimueller.org>
+
+I've taken strong inspirations from
+taiga-contrib-mailchimp-subscription.
 
