@@ -1,7 +1,7 @@
 import os
 import sys
 
-os.environ.setdefault("DJANGO_SETTINGS_MODULE", "taiga_contrib_issue_colouring.settings")
+os.environ.setdefault("DJANGO_SETTINGS_MODULE", "taiga_contrib_issue_colouring_tests.settings")
 sys.path.insert(0, "../../taiga-back/")
 
 from tests.fixtures import *
